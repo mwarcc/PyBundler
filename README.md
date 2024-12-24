@@ -39,12 +39,6 @@ ProjectRoot/
 - Not recommended for production use with complex projects
 - May not work with dynamic imports or complex package structures
 
-## Installation
-
-```bash
-pip install pybundler
-```
-
 ## Usage
 
 Basic usage example:
